@@ -14,7 +14,8 @@ A command-line tool that helps you unban from the **Triumph** game by changing d
 3. Download:
 [TriumphUnbanTool-1.0.0-macOS.zip](https://github.com/user-attachments/files/35292176/TriumphUnbanTool-1.0.0-macOS.zip)
 
-4. Open folder and drag "triumph" into a fresh terminal and hit return
+4. If your name is Checketts, open folder and drag "triumph" into a fresh terminal and hit return
+
 
 5. Follow the steps in terminal
 
