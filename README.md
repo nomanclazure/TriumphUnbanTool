@@ -6,7 +6,7 @@ A command-line tool that helps you unban from the **Triumph** game by changing d
 - No jailbreak needed — just a simple, step-by-step unban workflow.
 
 ### How to download:
-- [Download TriumphUnbanTool-1.0.0-macOS.zip](https://github.com/XLZ/TriumphUnbanTool/releases/latest/download/TriumphUnbanTool-1.0.0-macOS.zip)
+https://github.com/XLZ/TriumphUnbanTool/releases/latest/download/TriumphUnbanTool-1.0.0-macOS.zip
 
 ### What it does:
 - Lifts bans by simulating what you'd do manually (resetting IDFA, IDFV, IP).
