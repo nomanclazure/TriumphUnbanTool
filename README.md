@@ -1,29 +1,19 @@
-# TriumphUnbanTool
-A macOS command-line application that helps lift bans from the **Triumph** skill-based gambling app using your iPhone over USB.
+## TriumphUnbanTool v1.0.0 — macOS Unban Tool
 
-## ✅ What It Does
-- Lifts bans by un-banning from the **Triumph** game.
-- Works using your iPhone's identifiers (IDFA, IDFV, IP).
-- No jailbreak. No restore. No changes to your Mac.
+A command-line tool that helps you unban from the **Triumph** game by changing device identifiers on your iPhone over USB.
 
-## 📦 How to Use
-1. Plug in your iPhone, unlock it, and tap "Trust This Computer."
-2. Run the tool:
-   ```bash
-   ./TriumphUnbanTool/triumph
-🚀 Features
-Unban from device/network bans.
-Full unban workflow with step-by-step guidance.
-📦 How to Download
-To get the latest version of this tool:
+- Works with any iPhone and modern iOS via USB lockdown protocol.
+- No jailbreak needed — just a simple, step-by-step unban workflow.
 
-Go to GitHub.
-Click on the "Releases" tab.
-Download TriumphUnbanTool-1.0.0-macOS.zip from the latest release.
-Extract it to a folder of your choice.
-📚 License
-MIT — see 
-LICENSE
+### How to download:
+- [Download TriumphUnbanTool-1.0.0-macOS.zip](https://github.com/XLZ/TriumphUnbanTool/releases/latest/download/TriumphUnbanTool-1.0.0-macOS.zip)
 
-🧠 Notes
-This is a tool — not an exploit. It simulates what you would do manually (like resetting your advertising ID or changing network settings).
+### What it does:
+- Lifts bans by simulating what you'd do manually (resetting IDFA, IDFV, IP).
+- No changes to your Mac — clean and safe.
+
+### Notes:
+> This is a *tool* — not an exploit. It simulates what you would do manually (like resetting your advertising ID or changing network settings).
+
+### License
+MIT — see [LICENSE](LICENSE)
